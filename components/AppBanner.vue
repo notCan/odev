@@ -17,7 +17,7 @@
         md:basis-1/2
       "
     >
-        <nuxt-link :to="button.link" class="btn-link-primary relative z-10">
+        <nuxt-link class="btn-link-primary relative z-10 cursor-pointer">
           <span>{{ button.label }}</span>
           <i class="ml-3" :class="button.icon" /></nuxt-link>
       <img

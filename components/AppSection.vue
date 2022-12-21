@@ -22,8 +22,7 @@
         v-html="section.description"
       ></span>
       <nuxt-link
-        :to="section.button.link"
-        class="btn-primary-lighter flex items-center mt-8 w-max"
+        class="btn-primary-lighter flex items-center mt-8 w-max cursor-pointer"
       >
         {{ section.button.label }} <i class="ml-3" :class="section.button.icon"
       /></nuxt-link>

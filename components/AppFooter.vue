@@ -19,20 +19,20 @@
           </div>
         </div>
       </div>
-      <!-- <div class="footer-section w-full md:w-1/3 md:max-w-xs md:flex md:flex-col md:items-end">
+      <div class="footer-section w-full md:w-1/3 md:max-w-xs md:flex md:flex-col md:items-end">
         <div>
           <h3 class="font-semibold text-xl mb-4 md:w-max">
             {{ footerData.siteMap.title }}
           </h3>
           <ul class="sm:w-max">
-            <li v-for="item in list.data.value[0].body" :key="item">
-              <nuxt-link :to="`/case-studies/${item.slug}`">
+            <li v-for="item in footerData.siteMap" :key="item">
+              <nuxt-link class="cursor-pointer">
                 {{ item.title }}
               </nuxt-link>
             </li>
           </ul>
         </div>
-      </div> -->
+      </div>
     </div>
   </footer>
 </template>
@@ -42,9 +42,9 @@ const { data } = await useAsyncData('footer', () =>
 )
 const footerData = data.value.body[0]
 
-const list = await useAsyncData('list', () =>
-  queryContent('contentrain', 'case-studies').find()
-)
+// const list = await useAsyncData('list', () =>
+//   queryContent('contentrain', 'case-studies').find()
+// )
 
 </script>
 

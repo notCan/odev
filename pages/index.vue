@@ -11,7 +11,7 @@
           <p class="mb-8 text-xl">
             {{ homeData.hero.description }}
           </p>
-          <nuxt-link :to="homeData.hero.button.link" class="btn-link-primary">
+          <nuxt-link class="btn-link-primary cursor-pointer">
             {{ homeData.hero.button.label }}
             <i class="ml-3" :class="homeData.hero.button.icon"
           /></nuxt-link>
@@ -93,7 +93,7 @@
               </p>
             </div>
             <div class="link">
-              <nuxt-link class="app-link" :to="feature.button.link">
+              <nuxt-link class="app-link cursor-pointer">
                 {{ feature.button.label }}
                 <i class="ml-3" :class="feature.button.icon" />
               </nuxt-link>
@@ -138,8 +138,7 @@
         </ul>
         <!-- <button class="btn-primary flex items-center"> -->
         <nuxt-link
-          :to="homeData.bannerFull.button.link"
-          class="btn-link-primary"
+          class="btn-link-primary cursor-pointer"
         >
           <span>{{ homeData.bannerFull.button.label }}</span>
           <i class="ml-3" :class="homeData.bannerFull.button.icon"></i
@@ -148,7 +147,46 @@
       </div>
     </section>
     <div class="base-container">
-      <section class="services">
+      <section class="studies">
+        <div
+          ref="studiesTitle"
+          class="content max-w-2xl mx-auto text-center mb-10"
+        >
+          <h2 class="font-semibold text-4xl mb-6">
+            {{ homeData.studies.title }}
+          </h2>
+          <p>
+            {{ homeData.studies.description }}
+          </p>
+        </div>
+        <div ref="studiesCards" class="app-cards">
+          <div
+            v-for="(study, index) in homeData.studies.cards"
+            :key="index"
+            class="app-card p-6"
+          >
+            <div class="image mb-4">
+              <img
+                class="w-full h-auto rounded-2xl"
+                :src="study.media.src.split('public')[1]"
+                :alt="study.media.alt"
+              />
+            </div>
+            <div class="content mb-6">
+              <h3 class="font-semibold text-lg">
+                {{ study.title }}
+              </h3>
+            </div>
+            <div class="button flex">
+              <nuxt-link class="btn-primary-outline cursor-pointer">
+                {{ study.button.label }}
+                <i class="ml-3 align-middle" :class="study.button.icon" />
+              </nuxt-link>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="services pt-40">
         <div
           ref="quotesTitle"
           class="content max-w-2xl mx-auto text-center mb-10"

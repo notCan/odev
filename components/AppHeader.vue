@@ -20,7 +20,7 @@
               {{ nav.name }}
             </nuxt-link>
           </div>
-          <nuxt-link class="btn-primary ml-3" :to="headerData.button.link">
+          <nuxt-link v-if="headerData.button" class="btn-primary ml-3" :to="headerData.button.link">
             {{ headerData.button.label }}
           </nuxt-link>
         </nav>
