@@ -2,8 +2,8 @@
   {
     "hero": {
       "ID": "8ce463ea-a80f-4c7c-90b7-637d1e8a129f",
-      "title": "Your Headless CMS needs a voice",
-      "description": "Expertly crafted content for the headless CMS and headless commerce industry",
+      "title": "Drink Smartee to Feel Healtee",
+      "description": "As Smartee, we are giving an undertaking that when you need Smartee, you can easily find and drink and eat Smartee’s products!",
       "media": {
         "ID": "cc78c183-b5c3-4c8a-a279-33aa0ef76de6",
         "src": "public/img/1660162214661_home.svg",
@@ -20,7 +20,7 @@
         "updatedAt": 1660573671512
       },
       "createdAt": 1658919814151,
-      "updatedAt": 1671606473738
+      "updatedAt": 1671617321081
     },
     "references": {
       "media": [
