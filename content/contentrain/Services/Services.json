@@ -2,9 +2,9 @@
   {
     "appHero": {
       "ID": "be42e97e-4243-48b3-b92c-08275a55f421",
-      "title": "Content for Headless CMS industry",
-      "subtitle": "A CMO’s secret Weapon",
-      "description": "Wordify is not just another content factory. We integrate into marketing teams to build content-filled funnels that turn website visitors into MQLs (Marketing Qualified Leads) and SQLs (Sales Qualified Leads). Here’s how we do it.",
+      "title": "How We Decide to Produce Smartee",
+      "subtitle": "Shake Till Make It!",
+      "description": "While we were talking about energy drinks as the founding team of Smartee, we think there is no energy drink that also strengthens your immune system. After this conversation, we researched the energy drink market to be sure. Afterward, we talked with doctors for it was possible or not. After the approval of the doctors, the production adventure of the product began.\n",
       "media": {
         "ID": "75bf34f7-4f21-4d0d-8c00-2c94a537ab1d",
         "src": "public/img/1659074615180_background.avif",
@@ -18,7 +18,8 @@
         "link": "/",
         "createdAt": 1659074661686
       },
-      "createdAt": 1658826927570
+      "createdAt": 1658826927570,
+      "updatedAt": 1671646665759
     },
     "details": {
       "ID": "a5f6e083-88f1-474e-b6c3-780a75b608a5",
