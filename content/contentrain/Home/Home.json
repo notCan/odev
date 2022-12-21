@@ -207,11 +207,11 @@
           },
           "button": {
             "ID": "5892a084-53a7-4a4d-902d-0036f01cf311",
-            "label": "Read Product's Journey",
+            "label": "Read Product's Story",
             "link": "/case-studies/coredna",
             "icon": "ri-arrow-right-up-line",
             "createdAt": 1658823949986,
-            "updatedAt": 1671646446500
+            "updatedAt": 1671647091511
           },
           "createdAt": 1658823733398,
           "updatedAt": 1671644356496
