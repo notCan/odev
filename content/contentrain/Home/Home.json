@@ -165,11 +165,11 @@
           },
           "button": {
             "ID": "25322fdc-a0e7-43a7-a9cf-6a9acfae76d0",
-            "label": "Read case study",
+            "label": "Read Product's Story",
             "link": "/case-studies/shopify",
             "icon": "ri-arrow-right-up-line",
             "createdAt": 1658823769272,
-            "updatedAt": 1659518509308
+            "updatedAt": 1671646388645
           },
           "createdAt": 1658823717404,
           "updatedAt": 1671644281372
