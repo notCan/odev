@@ -73,8 +73,8 @@
       },
       {
         "ID": "b8a315ee-02c4-4c3b-97f1-309a36ba104d",
-        "title": "Motherhood",
-        "description": "<p class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">&nbsp;Our second product is designed for ‘Mothers during pregnancy or breastfeeding’. The most common problems in pregnancy; are morning sickness and vomiting, frequent urination, etc. We thought about what kind of solution we can offer to our mothers. For this reason, we have collected all the vitamins that mothers need during pregnancy in our drink.&nbsp;</span></p><p><br></p><p><br></p>",
+        "title": "Healthee",
+        "description": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">This product is designed for our masked heroes. The content of product contains vitamins and minerals that will reduce effects such as \"clinical anxiety, and severe depression\", which emerged as a result of research on the psychology of health workers after the COVID-19 pandemic. In this way, we aimed to help them, although not as much as they did.</span></p><p><br></p>",
         "media": {
           "ID": "d575104f-c2f5-441b-b90f-f16e77462b50",
           "src": "public/img/1660056888633_integrated content prod..svg",
@@ -91,7 +91,7 @@
         },
         "index": 2,
         "createdAt": 1658827103577,
-        "updatedAt": 1671647671245
+        "updatedAt": 1671647882184
       },
       {
         "ID": "3376f8b3-b092-47a3-933c-6c759aca725e",
