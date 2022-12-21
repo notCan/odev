@@ -1,0 +1,52 @@
+{
+  "name": "Wordify",
+  "icons": [
+    {
+      "src": "/pwa/512x512.png",
+      "types": "img/png",
+      "sizes": "512x512",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/pwa/384x384.png",
+      "types": "img/png",
+      "sizes": "384x384",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/pwa/192x192.png",
+      "types": "img/png",
+      "sizes": "192x192",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/pwa/128x128.png",
+      "types": "img/png",
+      "sizes": "128x128",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/pwa/96x96.png",
+      "types": "img/png",
+      "sizes": "96x96",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/pwa/72x72.png",
+      "types": "img/png",
+      "sizes": "72x72",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/pwa/48x48.png",
+      "types": "img/png",
+      "sizes": "48x48",
+      "purpose": "maskable any"
+    }
+  ],
+  "start_url": "./",
+  "display": "fullscreen",
+  "scope": ".",
+  "background_color": "#33C0CB",
+  "theme_color": "#33C0CB"
+}
