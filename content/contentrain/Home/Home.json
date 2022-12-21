@@ -61,7 +61,7 @@
     "features": {
       "ID": "df7ecc29-2aef-4137-b3cf-a16ff81f1422",
       "title": "What Smartee Is Including In Its Products?",
-      "description": "Buraya içerik yazılacak",
+      "description": "Smartee is producing its product in a special way. Of course, we can't share our secrets but we can give little tips",
       "cards": [
         {
           "ID": "b2cbc358-186d-4daf-ac1a-c0804819de64",
@@ -131,7 +131,7 @@
         }
       ],
       "createdAt": 1658823244249,
-      "updatedAt": 1671617763553
+      "updatedAt": 1671642228017
     },
     "banner": {
       "ID": "262c4581-ec5a-492d-b423-b08af6118c31",
