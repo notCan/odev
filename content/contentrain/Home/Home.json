@@ -88,8 +88,8 @@
         {
           "ID": "7453aa7f-5464-421d-80b3-649741308f7a",
           "icon": "",
-          "title": "Content Marketing",
-          "description": "We don't just write compelling blog posts and white papers, we target the right keywords and tell everyone the right stories to engage the right people.",
+          "title": "Organic Fruits",
+          "description": "In our churkchellas, we are using fruits that grew for Smartee’s churkchellas. Also, in accordance with our agreements with local farmers, the farmers produce the fruits for us. Then, we share our profit with them for their production.",
           "button": {
             "ID": "ddd34633-b307-4775-92b9-855832b23710",
             "label": "Learn more",
@@ -104,7 +104,8 @@
             "src": "public/img/1658921808032_ct-marketing-icon.svg",
             "alt": "marketing",
             "createdAt": 1658921812657
-          }
+          },
+          "updatedAt": 1671641991209
         },
         {
           "ID": "3c434900-1c1b-4ee4-b51e-01d11f013239",
