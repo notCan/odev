@@ -135,7 +135,7 @@
     "ID": "b4871e6d-2993-46f3-8936-4eaab0072322",
     "metaData": {
       "ID": "4971678b-936d-429a-b3ba-bdf71a3827c0",
-      "title": "Wordify - Services",
+      "title": "Smartee - Products",
       "tags": [
         {
           "ID": "33537d21-2251-4e71-b0db-a2c3c8241213",
@@ -146,7 +146,8 @@
           "updatedAt": 1660132117000
         }
       ],
-      "createdAt": 1659300053308
+      "createdAt": 1659300053308,
+      "updatedAt": 1671648266573
     }
   }
 ]
