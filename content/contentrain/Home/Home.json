@@ -369,9 +369,10 @@
         {
           "ID": "103c0a06-06ad-40a1-bd2f-87d19bc2bbc8",
           "name": "name",
-          "content": "Wordify",
+          "content": "Smartee",
           "type": "schema",
-          "createdAt": 1660111944909
+          "createdAt": 1660111944909,
+          "updatedAt": 1671648297251
         },
         {
           "ID": "626f6888-a3be-46f4-8c7c-42505f399b34",
