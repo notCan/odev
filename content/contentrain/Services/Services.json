@@ -85,10 +85,11 @@
         },
         "button": {
           "ID": "b9875648-fc96-47d7-92ce-3453b95ac342",
-          "label": "Learn more",
+          "label": "Buy for $1,65",
           "link": "/impactful-content",
           "icon": "ri-arrow-right-up-line",
-          "createdAt": 1658827382175
+          "createdAt": 1658827382175,
+          "updatedAt": 1671648608533
         },
         "index": 2,
         "createdAt": 1658827103577,
