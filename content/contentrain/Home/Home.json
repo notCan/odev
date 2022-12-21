@@ -317,9 +317,10 @@
         {
           "ID": "a99daab0-0f0c-4a5f-b64b-bf8cec8122cb",
           "name": "title",
-          "content": "Wordify",
+          "content": "Smartee",
           "type": "global",
-          "createdAt": 1660111568325
+          "createdAt": 1660111568325,
+          "updatedAt": 1671646954384
         },
         {
           "ID": "d0524406-1441-49a7-88d5-447d55848067",
