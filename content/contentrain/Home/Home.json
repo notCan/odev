@@ -60,8 +60,8 @@
     },
     "features": {
       "ID": "df7ecc29-2aef-4137-b3cf-a16ff81f1422",
-      "title": "Impactful content for Digital Experience Platforms",
-      "description": "In the age of headless, composability, and MACH, your software must stay top of mind.",
+      "title": "What Smartee Is Including In Its Products?",
+      "description": "Buraya içerik yazılacak",
       "cards": [
         {
           "ID": "b2cbc358-186d-4daf-ac1a-c0804819de64",
@@ -128,7 +128,7 @@
         }
       ],
       "createdAt": 1658823244249,
-      "updatedAt": 1660568250189
+      "updatedAt": 1671617763553
     },
     "banner": {
       "ID": "262c4581-ec5a-492d-b423-b08af6118c31",
