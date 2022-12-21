@@ -66,8 +66,8 @@
         {
           "ID": "b2cbc358-186d-4daf-ac1a-c0804819de64",
           "icon": "",
-          "title": "Content Strategy",
-          "description": "We build bespoke content strategy documents to give vendors clarity on the type of content they need to be publishing for SEO and brand awareness.",
+          "title": "Lots of Vitamins",
+          "description": "We created a product that includes almost all of the vitamins. We know too many competitors in this market but we have a difference. We are serving this good at an affordable price. In this way, we aim to reach all segments of the public.",
           "button": {
             "ID": "c77a68f7-a56d-4156-bb62-21b5df98bd7d",
             "label": "Learn more",
@@ -82,7 +82,8 @@
             "src": "public/img/1658921761411_ct-strategy-icon.svg",
             "alt": "strategy",
             "createdAt": 1658921777636
-          }
+          },
+          "updatedAt": 1671641857494
         },
         {
           "ID": "7453aa7f-5464-421d-80b3-649741308f7a",
