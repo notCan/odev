@@ -14,10 +14,11 @@
       },
       "logo": {
         "ID": "e7194e16-2538-43ef-8e58-e3b722f6435d",
-        "src": "public/img/1659074654137_logo-brand.svg",
+        "src": "public/img/1671662417277_logo.png",
         "alt": "logo",
         "link": "/",
-        "createdAt": 1659074661686
+        "createdAt": 1659074661686,
+        "updatedAt": 1671662418401
       },
       "createdAt": 1658826927570,
       "updatedAt": 1671646665759
