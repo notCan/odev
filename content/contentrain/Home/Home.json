@@ -13,11 +13,11 @@
       },
       "button": {
         "ID": "3ae11654-552b-4e06-98c9-e5bd4326ede2",
-        "label": "Schedule a call",
+        "label": "Buy Now",
         "link": "/contact",
         "icon": "ri-arrow-right-up-line",
         "createdAt": 1658919848666,
-        "updatedAt": 1660573671512
+        "updatedAt": 1671617438419
       },
       "createdAt": 1658919814151,
       "updatedAt": 1671617321081
