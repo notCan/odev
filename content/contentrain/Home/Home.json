@@ -149,8 +149,8 @@
     },
     "studies": {
       "ID": "dc61d2d1-699b-4bc2-a45b-d9dff7e757c4",
-      "title": "From headless commerce software vendors to jamstack agencies.",
-      "description": "We've spent years empowering our clients with content that moves the needle.",
+      "title": "What Smartee Producing?",
+      "description": "Our target customers can be divided into three main products. These are:",
       "cards": [
         {
           "ID": "3b4dfea3-aeaf-4bd3-b868-7d8d40a0b99c",
@@ -215,7 +215,7 @@
         }
       ],
       "createdAt": 1658823698486,
-      "updatedAt": 1660161653117
+      "updatedAt": 1671644221065
     },
     "testimonials": {
       "ID": "5c83cae9-744b-43fa-a4a2-51f95c0bc084",
