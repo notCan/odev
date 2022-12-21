@@ -186,11 +186,11 @@
           },
           "button": {
             "ID": "3b1e600a-fad1-4826-9a48-c1abaa9e4413",
-            "label": "Read Product's Journey",
+            "label": "Read Product's Story",
             "link": "/case-studies/liferay",
             "icon": "ri-arrow-right-up-line",
             "createdAt": 1658823903597,
-            "updatedAt": 1671646413260
+            "updatedAt": 1671647072476
           },
           "createdAt": 1658823727032,
           "updatedAt": 1671644312403
