@@ -208,8 +208,6 @@ const references = ref(null);
 const featuresTitle = ref(null);
 const featuresCards = ref(null);
 const bigBanner = ref(null);
-const studiesTitle = ref(null);
-const studiesCards = ref(null);
 const indexBanner = ref(null);
 const quotesTitle = ref(null);
 const quotesCards = ref(null);
@@ -234,8 +232,6 @@ onMounted(() => {
   observer.observe(featuresTitle.value);
   observer.observe(featuresCards.value);
   observer.observe(bigBanner.value);
-  observer.observe(studiesTitle.value);
-  observer.observe(studiesCards.value);
   observer.observe(indexBanner.value);
   observer.observe(quotesTitle.value);
   observer.observe(quotesCards.value);
