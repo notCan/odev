@@ -340,9 +340,10 @@
         {
           "ID": "a0eeeea0-f938-4c25-875e-406b9f00ca68",
           "name": "og:site_name",
-          "content": "Wordify",
+          "content": "Smartee",
           "type": "og",
-          "createdAt": 1660111743358
+          "createdAt": 1660111743358,
+          "updatedAt": 1671646970894
         },
         {
           "ID": "98e04887-8bfb-422a-8c4c-4088742c7451",
