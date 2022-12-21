@@ -51,8 +51,8 @@
     "sections": [
       {
         "ID": "3ee9a5dd-556e-4626-b14b-0d42c878eee9",
-        "title": "Heathee",
-        "description": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">This product is designed for our masked heroes. The content of product contains vitamins and minerals that will reduce effects such as \"clinical anxiety, and severe depression\", which emerged as a result of research on the psychology of health workers after the COVID-19 pandemic. In this way, we aimed to help them, although not as much as they did.</span></p>",
+        "title": "",
+        "description": "<p class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">The first product is designed for ‘Mothers during pregnancy or breastfeeding’. The most common problems in pregnancy; are morning sickness and vomiting, frequent urination, etc. We thought about what kind of solution we can offer to our mothers. For this reason, we have collected all the vitamins that mothers need during pregnancy in our drink.&nbsp;</span></p><p><br></p>",
         "media": {
           "ID": "b901e215-b1ba-4f94-bb95-66791341185f",
           "src": "public/img/1660056868968_expertly researched.svg",
@@ -69,7 +69,7 @@
         },
         "index": 1,
         "createdAt": 1658827081344,
-        "updatedAt": 1671647560496
+        "updatedAt": 1671647832782
       },
       {
         "ID": "b8a315ee-02c4-4c3b-97f1-309a36ba104d",
