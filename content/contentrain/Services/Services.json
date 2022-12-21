@@ -122,10 +122,11 @@
       "description": "If you want to read Smartee's founding story, you can click the button",
       "button": {
         "ID": "872d263b-fe72-411d-b7c4-230eadea6004",
-        "label": "Schedule a call",
+        "label": "Read The Story",
         "link": "/contact",
         "icon": "ri-arrow-right-up-line",
-        "createdAt": 1658827016170
+        "createdAt": 1658827016170,
+        "updatedAt": 1671648233703
       },
       "createdAt": 1658826992703,
       "updatedAt": 1671648213384
