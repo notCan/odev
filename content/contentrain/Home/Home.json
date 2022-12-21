@@ -110,8 +110,8 @@
         {
           "ID": "3c434900-1c1b-4ee4-b51e-01d11f013239",
           "icon": "",
-          "title": "Content Repurposing",
-          "description": "Most Headless CMS vendors are sitting on a goldmine of content that can be refreshed, developed and transformed to increase their organic traffic.",
+          "title": "Strengthens Your Immune System",
+          "description": "Especially, after the COVID-19 pandemic, most doctors and nurses take care of their immune systems.  Because people go to them only we feel not good. That’s why they only keep in touch with sick people. For this reason, we decided to create a product that includes the strength of their immune system.\n",
           "button": {
             "ID": "82e0992b-fe3c-4d1d-8633-3a8c1fba29e0",
             "label": "Learn more",
@@ -126,7 +126,8 @@
             "src": "public/img/1658921837338_ct-repurpising-icon.svg",
             "alt": "repurposing",
             "createdAt": 1658921853093
-          }
+          },
+          "updatedAt": 1671642133830
         }
       ],
       "createdAt": 1658823244249,
