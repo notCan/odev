@@ -139,10 +139,11 @@
       "description": "",
       "button": {
         "ID": "6cd20865-3e27-40bf-ade3-9b9a99491a6b",
-        "label": "Schedule a call",
+        "label": "See the journey",
         "link": "/contact",
         "icon": "arrow-right-up",
-        "createdAt": 1658823638682
+        "createdAt": 1658823638682,
+        "updatedAt": 1671645576546
       },
       "createdAt": 1658823600504,
       "updatedAt": 1671645542357
