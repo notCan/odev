@@ -108,10 +108,11 @@
         },
         "button": {
           "ID": "a6e07ecf-743e-4deb-9309-4062f8bf1159",
-          "label": "Learn more",
+          "label": "Buy for $2.25",
           "link": "/content-repurposing",
           "icon": "ri-arrow-right-up-line",
-          "createdAt": 1658827449802
+          "createdAt": 1658827449802,
+          "updatedAt": 1671648631725
         },
         "index": 3,
         "createdAt": 1658827127553,
