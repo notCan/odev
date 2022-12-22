@@ -1,6 +1,7 @@
 <template>
   <div>
     <div class="base-container">
+      {{ servicesData }}
       <AppHero
         class="mb-32"
         :title="servicesData.appHero.title"

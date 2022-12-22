@@ -7,7 +7,7 @@
       <div class="flex justify-between items-center">
         <div class="flex items-center">
           <nuxt-link :to="headerData.logo.link">
-            <img class="w-24 md:w-36 h-auto text-2xl" :src="headerData.logo.src.split('public')[1]" :alt="headerData.logo.alt">
+            <img class="w-24 md:w-36 h-auto text-2xl" src="/img/1671662417277_logo.png" :alt="headerData.logo.alt">
           </nuxt-link>
         </div>
         <nav class="hidden md:flex items-center">
