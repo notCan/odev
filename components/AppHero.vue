@@ -1,5 +1,5 @@
 <template>
-  <section class="app-hero" style="background-image: url('/img/1671662299162_hero_banner.png');">
+  <section class="app-hero" style="background-image: url('/img/1671693681771_hero banner.png');">
     <div class="hero-background-image" />
     <div class="flex justify-between flex-wrap relative">
       <div class="content w-full lg:w-1/2">
